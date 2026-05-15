@@ -16,6 +16,9 @@ The platform focuses on solving challenges related to missed farming schedules, 
 - HTML
 - CSS
 
+# Github Repo Screenshot
+<img width="1917" height="1056" alt="Screenshot 2026-05-15 063506" src="https://github.com/user-attachments/assets/74895ae1-20d9-49ed-afc5-aa150b222fb4" />
+
 # Landing Page Screenshots
 <img width="1897" height="949" alt="Screenshot 2026-05-15 060137" src="https://github.com/user-attachments/assets/a7469a29-b8fd-4d05-934b-14dbd69a7276" />
 
